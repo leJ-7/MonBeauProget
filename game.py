@@ -1,5 +1,5 @@
 import pygame
-from perso import Perso
+from perso1 import Perso1
 
 class Game():
     

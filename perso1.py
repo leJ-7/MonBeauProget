@@ -1,7 +1,7 @@
 import pygame
 
 
-class Perso():
+class Perso1():
     
     def __init__(self):
         
